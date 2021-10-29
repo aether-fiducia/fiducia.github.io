@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# My Cyber-Mental Space
 
-You can use the [editor on GitHub](https://github.com/aether-fiducia/veritas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I suspect that this will be a mess of half constructs rather than anything remotely
+coherent or helpful. That said, here's the list of ideas I have for what I would one
+day like to have
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- About me
+- Blog
+- Publications
+- Projects
 
-### Markdown
+To expand each of those to an actionable description:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
 
-```markdown
-Syntax highlighted code block
+Just the write up you would expect. A photo or two, links to socials, and as much
+self obsessed nonsense that I can fit. A resume and CV probably wouldn't go amiss
+as well. Honestly, it's the easiest part and I really should just get it over with.
+I'll see what I can do.
 
-# Header 1
-## Header 2
-### Header 3
+### Blog
 
-- Bulleted
-- List
+A public journal I guess. Will be an excuse to do some monthly(?) writing and,
+arguably more importantly, review practice. I suspect posts will be on whatever
+I found interesting in my work that month, with maybe the post or two about something
+outside of STEM.
 
-1. Numbered
-2. List
+### Publications
 
-**Bold** and _Italic_ and `Code` text
+If/When some of my stuff gets published, I'll link it here for easy documentation.
+The writing will be substantially more polished, and proportionally less frequent.
+I may supplement this with unpublished formal written work (think Paul's notes at an
+undergraduate level but drastically less helpful).
 
-[Link](url) and ![Image](src)
-```
+### Projects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aether-fiducia/veritas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Things that I do that are not all in my head. Probably primarily code and some writing,
+but the things that people can pick up and start playing with themselves should they
+so desire. A key point is that everything here will be extensible by design: source
+code available, sheet music available, and generally the guts will be exposed with the idea
+being that anyone could pick up and play.
